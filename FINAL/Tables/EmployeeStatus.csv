@@ -1,0 +1,6 @@
+employee_status_id,employee_status
+1,Active
+2,"Future Start"
+3,Absence
+4,"Terminated for Cause"
+5,"Voluntarily Terminated"

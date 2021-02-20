@@ -1,0 +1,19 @@
+term_reason_id,term_reason
+0,NULL
+1,"another position"
+2,attendance
+3,"career change"
+4,"gross misconduct"
+5,hours
+6,"maternity leave - did not return"
+7,"medical issues"
+8,military
+9,"more money"
+10,"N/A - Has not started yet"
+11,"N/A - still employed"
+12,"no-call no-show"
+13,performance
+14,"relocation out of area"
+15,retiring
+16,"return to school"
+17,unhappy
